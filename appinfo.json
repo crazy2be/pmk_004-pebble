@@ -1,0 +1,17 @@
+{
+  "uuid": "3ae4dd8e-2c23-470f-93db-791989a27bab",
+  "shortName": "pmk",
+  "longName": "pmk",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
